@@ -12,8 +12,8 @@ To put out a general image of what this repo may contain, a few examples can be 
 
 These are three examples, but more scripts will be hopefully added.
 
- ---
- <br><br>
+ 
+ <br>
 
 ## Developers, Supporters & Contributors
 
@@ -22,8 +22,8 @@ It helps others discover it and motivates development.
 
 If you have any suggestions for improvements or want to contribute other scripts of your own to the repo, feel free to open an issue or submit a pull request please!
 
----
-<br><br>
+
+<br>
 
 ## Execution
 
@@ -53,8 +53,8 @@ You can manually run the scripts in Powershell either by copying-pasting the who
 
 Caution: As a general guideline, you should always be sure, or make sure about the content of a script to run it. The content of this repo are simple scripts that may be easily checked, but for longer scripts be always aware about this please.
 
----
- <br><br>
+
+ <br>
 
  
 ## 📄 License
