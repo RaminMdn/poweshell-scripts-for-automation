@@ -1,4 +1,4 @@
-# useful-poweshell-scripts
+# Useful PowerShell Scripts for Automation
 
 <br>
 
