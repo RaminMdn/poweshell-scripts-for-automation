@@ -1,5 +1,6 @@
 # useful-poweshell-scripts
 
+<br>
 ## Overview
 
 The goal behind the repository is to develop scripts which may be used for automation of procedures and ordered execution of tasks which might take some time from a system user or a developer. 
@@ -10,9 +11,6 @@ To put out a general image of what this repo may contain, a few examples can be 
 - A script to go through all sub-folders of a root path and run 'git pull' on git folders to make them updated: this comes specifically handy for developers who are working on personal projects from different stations.
 - A script to check connectivity, health and ping stats of multiple websites/servers: This helps if you want to make sure multiple servers are working correctly and are connected.
 
-These are three examples, but more scripts will be hopefully added.
-
- 
  <br>
 
 ## Developers, Supporters & Contributors
